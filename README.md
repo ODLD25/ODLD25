@@ -15,7 +15,7 @@ I am currently working on a 3D Tower defense game in unity with mechanics that I
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-My favorite Quote:
+✍️ My favorite Quote:
 "Videohry sú najviac, ty debil." 
 
 ---
