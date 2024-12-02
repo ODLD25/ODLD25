@@ -15,10 +15,10 @@ I am currently working on a 3D Tower defense game in unity with mechanics that I
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+My favorite Quote:
+"Videohry sú najviac, ty debil." 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ODLD25&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-My favorite Quote:
-"Videohry sú najviac, ty debil." 
